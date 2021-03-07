@@ -68,4 +68,4 @@ The three graphics in the following are the backtesting results of the three str
 
 Regards,
 
-TheBacktester
+TheBacktester 
