@@ -23,7 +23,7 @@ I developed the strategy on the data of the last two years (2019/03/01-2021/02/2
 
 The statistics show that the higher the risk is raised, the higher the average profits will be. So, if you try to make high profits, it is possible to lose money on your way, just to gain even more later the year.
 
-I provide three different strategies: One high-risk, one low-risk and a middle-risk. **I recommend you to either cash out your profits at the end of each month, or to use the compounded interest and only cash out at the end of a half year** (End of June and end of December). That means you have six different possibilities to use these strategies. If you really like to use compounded interest use the low risk strategy and keep cash out after a couple years.
+I provide three different strategies: One high-risk, one low-risk and a middle-risk. **I recommend you to either cash out your profits at the end of each month, or to use the compounded interest and only cash out at the end of a half year** (End of June and end of December). That means you have six different possibilities to use these strategies. If you really like to use compounded interest use the low risk strategy and cash out after a couple years.
 
 The tables show the money made during backtesting for every year back to 2015 and the average monthly results. Please be aware that some years are super strong (2015 and 2020), other years like 2019 are not that strong. Sometimes I don’t trade for an entire month, because no good situation occurred. This patience will be rewarded later.
 
@@ -65,6 +65,7 @@ The graphics in the following are the backtesting results of the three strategie
 <div><img src="images/14.png" alt="image" style="width:80%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 25px; padding: 0px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"></div>
 <div><img src="images/15.png" alt="image" style="width:80%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 25px; padding: 0px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"></div>
 
+if you have suggestions to improve the strategy or if you are good at automated news trading, feel free to contact me at [Link] (thebacktester.icm@gmail.com).
 
 Regards,
 
