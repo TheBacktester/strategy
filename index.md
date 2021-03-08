@@ -12,8 +12,8 @@ before you start copying my strategy, there are a few things you need to know ab
  6. Account crashes are possible: For low risk and middle risk it didn’t happen within the past 6 years. For low risk it is very unrealistic to happen. For middle it might happen someday. For high risk it happened two times (2016 and 2018), after refunding the account it took 3 months to get the money back. Even in these years the results were highly positive (see tables below). 
  7. Many popular strategies crashed 2021/03/05. Even the High risk strategy didn’t crash that day.
 
-<div><img src="images/1.png" alt="Results per year" style="width:70%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 25px; padding: 0px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"></div>
-<div><img src="images/2.png" alt="Average results per month" style="width:70%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 25px; padding: 0px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"></div>
+<div><img src="images/1.png" alt="Results per year" style="width:80%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 25px; padding: 0px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"></div>
+<div><img src="images/2.png" alt="Average results per month" style="width:80%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 25px; padding: 0px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"></div>
 
 ## Description of the strategy:
 
@@ -29,7 +29,7 @@ The tables show the money made during backtesting for every year back to 2015 an
 
 To find out which strategy you should choose, look for the type that suits you best.
 
-<div><img src="images/3.png" alt="Different strategies" style="width:70%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 25px; padding: 0px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"></div>
+<div><img src="images/3.png" alt="Different strategies" style="width:80%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 25px; padding: 0px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"></div>
 
 In the past six years the middle and the low risk strategy never failed. The high risk failed two times, which means that the account was empty at that time. This happened one time in 2016 and in 2018. As you see in the tables, even these years made a significant plus. The fails can be seen in the graphics below, they are red circled.
 
@@ -42,28 +42,28 @@ The three graphics in the following are the backtesting results of the three str
 ## Backtesting results
 
 ### Low Risk, withdrawal every month:
-<div><img src="images/4.png" alt="image" style="width:70%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 25px; padding: 0px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"></div>
-<div><img src="images/5.png" alt="image" style="width:70%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 25px; padding: 0px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"></div>
+<div><img src="images/4.png" alt="image" style="width:80%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 25px; padding: 0px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"></div>
+<div><img src="images/5.png" alt="image" style="width:80%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 25px; padding: 0px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"></div>
 
 ### Low Risk, withdrawal every half year:
-<div><img src="images/6.png" alt="image" style="width:70%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 25px; padding: 0px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"></div>
-<div><img src="images/7.png" alt="image" style="width:70%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 25px; padding: 0px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"></div>
+<div><img src="images/6.png" alt="image" style="width:80%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 25px; padding: 0px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"></div>
+<div><img src="images/7.png" alt="image" style="width:80%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 25px; padding: 0px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"></div>
 
 ### Middle Risk, withdrawal every month:
-<div><img src="images/8.png" alt="image" style="width:70%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 25px; padding: 0px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"></div>
-<div><img src="images/9.png" alt="image" style="width:70%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 25px; padding: 0px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"></div>
+<div><img src="images/8.png" alt="image" style="width:80%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 25px; padding: 0px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"></div>
+<div><img src="images/9.png" alt="image" style="width:80%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 25px; padding: 0px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"></div>
 
 ### Middle Risk, withdrawal every half year:
-<div><img src="images/10.png" alt="image" style="width:70%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 25px; padding: 0px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"></div>
-<div><img src="images/11.png" alt="image" style="width:70%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 25px; padding: 0px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"></div>
+<div><img src="images/10.png" alt="image" style="width:80%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 25px; padding: 0px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"></div>
+<div><img src="images/11.png" alt="image" style="width:80%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 25px; padding: 0px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"></div>
 
 ### High Risk, withdrawal every month:
-<div><img src="images/12.png" alt="image" style="width:70%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 25px; padding: 0px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"></div>
-<div><img src="images/13.png" alt="image" style="width:70%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 25px; padding: 0px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"></div>
+<div><img src="images/12.png" alt="image" style="width:80%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 25px; padding: 0px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"></div>
+<div><img src="images/13.png" alt="image" style="width:80%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 25px; padding: 0px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"></div>
 
 ### High Risk, withdrawal every half year:
-<div><img src="images/14.png" alt="image" style="width:70%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 25px; padding: 0px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"></div>
-<div><img src="images/15.png" alt="image" style="width:70%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 25px; padding: 0px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"></div>
+<div><img src="images/14.png" alt="image" style="width:80%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 25px; padding: 0px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"></div>
+<div><img src="images/15.png" alt="image" style="width:80%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 25px; padding: 0px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"></div>
 
 
 Regards,
