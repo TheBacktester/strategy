@@ -65,7 +65,7 @@ The graphics in the following are the backtesting results of the three strategie
 <div><img src="images/14.png" alt="image" style="width:80%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 25px; padding: 0px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"></div>
 <div><img src="images/15.png" alt="image" style="width:80%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 25px; padding: 0px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"></div>
 
-if you have suggestions to improve the strategy or if you are good at automated news trading, feel free to contact me at ([thebacktester.icm@gmail.com](mailto:thebacktester.icm@gmail.com) .
+if you have suggestions to improve the strategy or if you are good at automated news trading, feel free to contact me at [thebacktester.icm@gmail.com](mailto:thebacktester.icm@gmail.com) .
 
 Regards,
 
