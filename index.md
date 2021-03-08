@@ -33,7 +33,7 @@ To find out which strategy you should choose, look for the type that suits you b
 
 In the past six years the middle and the low risk strategy never failed. The high risk failed two times, which means that the account was empty at that time. This happened one time in 2016 and in 2018. As you see in the tables, even these years made a significant plus. The fails can be seen in the graphics below, they are red circled.
 
-The three graphics in the following are the backtesting results of the three strategies using the cashout at the end of each month. Please note, that the cTrader Backtesting prints the number of trades on the x-axis, not the days and months. 
+The graphics in the following are the backtesting results of the three strategies using the cashout at the end of each month and the cashout at the end of each half year. Please note, that the cTrader Backtesting prints the number of trades on the x-axis, not the days and months. 
 
 
 
