@@ -6,9 +6,9 @@ before you start copying my strategy, there are a few things you need to know ab
  3. Start copying while there is no open position. Don`t cash out money while there is an open position.
  4. The amount of the position is calculated as a percentage of the balance.
  5. I have three different strategies: They are all the same, but they differ in risk level.
-	* Very Low risk: Long-term back tested low risk ([Link](http://www.blablameter.com/index.php)):
-	* Low risk: Long-term back tested middle risk ([Link](http://www.blablameter.com/index.php))
-	* Medium risk: Long-term back tested high risk ([Link](http://www.blablameter.com/index.php))
+	* Very Low risk: Long-term back tested very low risk ([Link](http://www.blablameter.com/index.php)):
+	* Low risk: Long-term back tested low risk ([Link](http://www.blablameter.com/index.php))
+	* Medium risk: Long-term back tested medium risk ([Link](http://www.blablameter.com/index.php))
  6. Account crashes are possible: For very low risk and low risk it didn’t happen within the past 6 years. For very low risk it is very unrealistic to happen. For low it might happen someday. For medium risk it happened two times (2016 and 2018), after refunding the account it took 3 months to get the money back. Even in these years the results were highly positive (see tables below). 
  7. Many popular strategies crashed 2021/03/05. Even the Medium risk strategy didn’t crash that day.
 
@@ -23,7 +23,7 @@ I developed the strategy on the data of the last two years (2019/03/01-2021/02/2
 
 The statistics show that the higher the risk is raised, the higher the average profits will be. So, if you try to make high profits, it is possible to lose money on your way, just to gain even more later the year.
 
-I provide three different strategies: One medium-risk, one low-risk and a very-low-risk. **I recommend you to either cash out your profits at the end of each month, or to use the compounded interest and only cash out at the end of a half year** (End of June and end of December). That means you have six different possibilities to use these strategies. If you really like to use compounded interest use the low risk strategy and cash out after a couple years.
+I provide three different strategies: One medium-risk, one low-risk and a very-low-risk. **I recommend you to either cash out your profits at the end of each month, or to use the compounded interest and only cash out at the end of a half year** (End of June and end of December). That means you have six different possibilities to use these strategies. If you really like to use compounded interest use the very low risk strategy and cash out after a couple years.
 
 The tables show the money made during backtesting for every year back to 2015 and the average monthly results. Please be aware that some years are super strong (2015 and 2020), other years like 2019 are not that strong. Sometimes I don’t trade for an entire month, because no good situation occurred. This patience will be rewarded later.
 
