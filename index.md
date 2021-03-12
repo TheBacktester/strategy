@@ -12,6 +12,8 @@ before you start copying my strategy, there are a few things you need to know ab
  6. Account crashes are possible: For very low risk and low risk it didn’t happen within the past 6 years. For very low risk it is very unrealistic to happen. For low it might happen someday. For medium risk it happened two times (2016 and 2018), after refunding the account it took 3 months to get the money back. Even in these years the results were highly positive (see tables below). 
  7. Many popular strategies crashed 2021/03/05. Even the Medium risk strategy didn’t crash that day.
 
+I keep you up to date on my telegram channel: ([Link](https://t.me/longterm_backtested_strategies))
+
 <div><img src="images/1.png" alt="Results per year" style="width:80%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 25px; padding: 0px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"></div>
 <div><img src="images/2.png" alt="Average results per month" style="width:80%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 25px; padding: 0px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"></div>
 
