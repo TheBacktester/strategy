@@ -6,9 +6,9 @@ before you start copying my strategy, there are a few things you need to know ab
  3. Start copying while there is no open position. Don`t cash out money while there is an open position.
  4. The amount of the position is calculated as a percentage of the balance.
  5. I have three different strategies: They are all the same, but they differ in risk level.
-	* Very Low risk: Long-term back tested very low risk ([Link](https://ct-eu.icmarkets.com/copy/account/1223197-icmarkets)):
-	* Low risk: Long-term back tested low risk ([Link](https://ct-eu.icmarkets.com/copy/account/1222952-icmarkets))
-	* Medium risk: Long-term back tested medium risk ([Link will follow]())
+	* Very Low risk: Long-term back tested very low risk ([Link](https://ct-eu.icmarkets.com/copy/strategy/27057))
+	* Low risk: Long-term back tested low risk ([Link](https://ct-eu.icmarkets.com/copy/strategy/25130))
+	* Medium risk: Long-term back tested medium risk ([Link](https://ct-eu.icmarkets.com/copy/strategy/27042))
  6. Account crashes are possible: For very low risk and low risk it didn’t happen within the past 6 years. For very low risk it is very unrealistic to happen. For low it might happen someday. For medium risk it happened two times (2016 and 2018), after refunding the account it took 3 months to get the money back. Even in these years the results were highly positive (see tables below). 
  7. Many popular strategies crashed 2021/03/05. Even the Medium risk strategy didn’t crash that day.
 
