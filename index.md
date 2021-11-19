@@ -1,16 +1,15 @@
 Hello Traders,
 
 before you start copying my strategy, there are a few things you need to know about it. So please read the following:
- 1. Most important: Don’t invest money that you can't afford to lose. The market always offers a chance to make profits, but there will always be a certain amount of risk.
- 2. Be patient and copy for multiple months. Some months or even years will not work out strong, so be patient (see tables below, year 2019). If there is no good opportunity to trade, I just don´t trade. 
- 3. Start copying while there is no open position. Don`t cash out money while there is an open position.
- 4. The amount of the position is calculated as a percentage of the balance.
- 5. I have three different strategies: They are all the same, but they differ in risk level.
+ 1. Be patient and copy for multiple months. Some months or even years will not work out strong, so be patient (see tables below, year 2019). If there is no good opportunity to trade, I just don´t trade. 
+ 2. Start copying while there is no open position. Don`t cash out money while there is an open position.
+ 3. The amount of the position is calculated as a percentage of the balance.
+ 4. I have three different strategies: They are all the same, but they differ in risk level.
 	* Very Low risk: Long-term back tested very low risk ([Link](https://ct-eu.icmarkets.com/copy/strategy/27057)) (currently not active)
 	* Low risk: Long-term back tested low risk ([Link](https://ct-eu.icmarkets.com/copy/strategy/25130))
 	* Medium risk: Long-term back tested medium risk ([Link](https://ct-eu.icmarkets.com/copy/strategy/27042))
- 6. Account crashes are possible: For very low risk and low risk it didn’t happen within the past 6 years. For very low risk it is very unrealistic to happen. For low it might happen someday. For medium risk it happened two times (2016 and 2018), after refunding the account it took 3 months to get the money back. Even in these years the results were highly positive (see tables below). 
- 7. Many popular strategies crashed 2021/03/05. Even the Medium risk strategy didn’t crash that day.
+ 5. Account crashes are possible: For very low risk and low risk it didn’t happen within the past 6 years. For very low risk it is very unrealistic to happen. For low it might happen someday. For medium risk it happened two times (2016 and 2018), after refunding the account it took 3 months to get the money back. Even in these years the results were highly positive (see tables below). 
+ 6. Many popular strategies crashed 2021/03/05. Even the Medium risk strategy didn’t crash that day.
 
 I keep you up to date on my telegram channel: [https://t.me/longterm_backtested_strategies](https://t.me/longterm_backtested_strategies)
 
