@@ -1,10 +1,10 @@
-Hello Traders,
-
 ## Update of 20th Nov. 2021:
-I already started the strategy in March 2021, but stop in May 2021 to rework the strategy.
+I already started the strategy in March 2021, but stopped in May 2021 to rework the strategy.
 The strategy is now reworked and live again!
 
 ## Overview:
+Hello Traders,
+
 before you start copying my strategy, there are a few things you need to know about it. So please read the following:
  1. Be patient and copy for multiple months. Some months or even years will not work out strong, so be patient (see tables below, year 2019). If there is no good opportunity to trade, I just don´t trade. 
  2. Start copying while there is no open position. Don`t cash out money while there is an open position.
@@ -13,7 +13,7 @@ before you start copying my strategy, there are a few things you need to know ab
 	* Longterm gains: 7-years back-tested Longterm gains([Link](https://ct-eu.icmarkets.com/copy/strategy/27057))
 	* Shortterm gains: 7-years back-tested Shortterm gains ([Link](https://ct-eu.icmarkets.com/copy/strategy/25130))
  
- I recommend to put 50% of your money in Shorterm gains and 50% in Longterm gains. After a couple years switch to 30% Shorterm gains and 70% Longterm gains.
+I recommend to put 50% of your money in Shorterm gains and 50% in Longterm gains. After a couple years switch to 30% Shorterm gains and 70% Longterm gains.
  
 I keep you up to date on my telegram channel: [https://t.me/longterm_backtested_strategies](https://t.me/longterm_backtested_strategies)
 
@@ -26,12 +26,14 @@ I have spent many years with forex trading and the stock market. This strategy i
 
 The strategy is based on a nearly 7-year backtest, starting on 1rd Jan. 2015 until 19th Nov. 2021.
 
-The Longterm gains strategy has a Stoploss of 25%, which was hitted 13 times in the last 7 years. This strategy has an average 0f 9.4% per month and should be used to make profit out of compound interest.
-	- How to use the strategy: Make an initial deposit and be patient a couple years. Compound interest is a magical thing!
-		$1000 turned into over 1 Milion Dollars in just 7 years.
-The Shortterm gains strategy trades higher amounts, but has no Stoploss. The monthly returns are consequently higher, but the entire account can crash, which happend 4 times in the last 7 years.
-	- How to use the strategy: Make an initial deposit and withdrawal either at the end of each month or at the end of each quarter (every 3 months) for a slight use of compound interest.
-	- Even tough the entire account can crash, there is a highly positive return (+xxx in 7 years), you just have to refund your account with you initial deposit, after a crash. The withdrawals secure your money.
+The Longterm gains strategy 
+	* Has a Stoploss of 25%, which was hitted 13 times in the last 7 years. This strategy has an average 0f 9.4% per month and should be used to make profit out of compound interest.
+	* How to use the strategy: Make an initial deposit and be patient a couple years. Compound interest is a magical thing!
+	* $1000 turned into over 1 Milion Dollars in just 7 years.
+The Shortterm gains strategy 
+	* Trades higher amounts, but has no Stoploss. The monthly returns are consequently higher, but the entire account can crash, which happend 4 times in the last 7 years.
+	* How to use the strategy: Make an initial deposit and withdrawal either at the end of each month or at the end of each quarter (every 3 months) for a slight use of compound interest.
+	* Even tough the entire account can crash, there is a highly positive return (+xxx in 7 years), you just have to refund your account with you initial deposit, after a crash. The withdrawals secure your money.
 
 The tables show the money made during backtesting for every year back to 2015 and the average monthly results. Please be aware that some years are super strong (2015 and 2020), other years like 2019 are not that strong. Sometimes I don’t trade for an entire month, because no good situation occurred. This patience will be rewarded later.
 
