@@ -1,5 +1,10 @@
 Hello Traders,
 
+####Update of 20th Nov. 2021:
+I already started the strategy in March 2021, but stop in May 2021 to rework the strategy.
+The strategy is now reworked and live again!
+
+##Overview
 before you start copying my strategy, there are a few things you need to know about it. So please read the following:
  1. Be patient and copy for multiple months. Some months or even years will not work out strong, so be patient (see tables below, year 2019). If there is no good opportunity to trade, I just don´t trade. 
  2. Start copying while there is no open position. Don`t cash out money while there is an open position.
@@ -7,6 +12,8 @@ before you start copying my strategy, there are a few things you need to know ab
  4. I have two different strategies: 
 	* Longterm gains: 7-years back-tested Longterm gains([Link](https://ct-eu.icmarkets.com/copy/strategy/27057))
 	* Shortterm gains: 7-years back-tested Shortterm gains ([Link](https://ct-eu.icmarkets.com/copy/strategy/25130))
+ 
+ I recommend to put 50% of your money in Shorterm gains and 50% in Longterm gains. After a couple years switch to 30% Shorterm gains and 70% Longterm gains.
  
 I keep you up to date on my telegram channel: [https://t.me/longterm_backtested_strategies](https://t.me/longterm_backtested_strategies)
 
@@ -28,7 +35,6 @@ The Shortterm gains strategy trades higher amounts, but has no Stoploss. The mon
 
 The tables show the money made during backtesting for every year back to 2015 and the average monthly results. Please be aware that some years are super strong (2015 and 2020), other years like 2019 are not that strong. Sometimes I don’t trade for an entire month, because no good situation occurred. This patience will be rewarded later.
 
-I recommend to put 50% of your money in Shorterm gains and 50% in Longterm gains. After a couple years switch to 30% Shorterm gains and 70% Longterm gains.
 
 <div><img src="images/3.png" alt="Different strategies" style="width:80%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 25px; padding: 0px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"></div>
 
