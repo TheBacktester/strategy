@@ -32,7 +32,7 @@ The strategy is based on a nearly 7-year backtest, starting on 1rd Jan. 2015 unt
 
 * Has a Stoploss of 25%, which was hitted 11 times in the last 7 years. This strategy has an average of 9.3% per month and should be used to make profit out of compound interest.
 * How to use the strategy: Make an initial deposit and be patient a couple years. Compound interest is a magical thing!
-* $1000 turned into over 1 Milion Dollars in just 7 years.
+* **$1000 turned into over 1 Milion Dollars in just 7 years.**
 
 ### The Shortterm-Gains-Strategy 
 
