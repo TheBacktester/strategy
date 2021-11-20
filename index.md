@@ -52,6 +52,7 @@ Please note, that the cTrader Backtesting prints the number of trades on the x-a
 ### Longterm-gains-strategy:
 <div><img src="images/3.png" alt="image" style="width:80%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 25px; padding: 0px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"></div>
 <div><img src="images/4.png" alt="image" style="width:80%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 25px; padding: 0px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"></div>
+Note: The Equity Drawdown of 53% happend, because of two crashes in the same month. It took only two month to regain the lost money!
 
 ### Shortterm-gains-strategy, withdrawal every month:
 <div><img src="images/5.png" alt="image" style="width:80%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 25px; padding: 0px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"></div>
