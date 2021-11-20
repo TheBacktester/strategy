@@ -28,14 +28,14 @@ I have spent many years with forex trading and the stock market. This strategy i
 The strategy is based on a nearly 7-year backtest, starting on 1rd Jan. 2015 until 19th Nov. 2021.
 
 
-The Longterm-gains-strategy 
-	* Has a Stoploss of 25%, which was hitted 11 times in the last 7 years. This strategy has an average of 9.3% per month and should be used to make profit out of compound interest.
-	* How to use the strategy: Make an initial deposit and be patient a couple years. Compound interest is a magical thing!
-	* $1000 turned into over 1 Milion Dollars in just 7 years.
-The Shortterm-gains-strategy 
-	* Trades higher amounts, but has no Stoploss. The monthly returns are consequently higher, but the entire account can crash, which happend 5 times in the last 7 years. 
-	* How to use the strategy: Make an initial deposit and withdrawal either at the end of each month or at the end of each quarter (every 3 months) for a slight use of compound interest.
-	* Even tough the entire account can crash, there is a highly positive return (+2850% in 7 years). You just have to refund your account with you initial deposit, after a crash. The withdrawals secure your money.
+**The Longterm-gains-strategy** 
+	- Has a Stoploss of 25%, which was hitted 11 times in the last 7 years. This strategy has an average of 9.3% per month and should be used to make profit out of compound interest.
+	- How to use the strategy: Make an initial deposit and be patient a couple years. Compound interest is a magical thing!
+	- $1000 turned into over 1 Milion Dollars in just 7 years.
+**The Shortterm-gains-strategy** 
+	- Trades higher amounts, but has no Stoploss. The monthly returns are consequently higher, but the entire account can crash, which happend 5 times in the last 7 years. 
+	- How to use the strategy: Make an initial deposit and withdrawal either at the end of each month or at the end of each quarter (every 3 months) for a slight use of compound interest.
+	- Even tough the entire account can crash, there is a highly positive return (+2850% in 7 years). You just have to refund your account with you initial deposit, after a crash. The withdrawals secure your money.
 
 The tables show the money made during backtesting for every year back to 2015 and the average monthly results. Please be aware that some years are super strong (2015, 2016 and 2020), other years like 2019 are not that strong. Sometimes I don’t trade for an entire month, because no good situation occurred. This patience will be rewarded later.
 
