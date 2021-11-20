@@ -28,13 +28,13 @@ I have spent many years with forex trading and the stock market. This strategy i
 The strategy is based on a nearly 7-year backtest, starting on 1rd Jan. 2015 until 19th Nov. 2021.
 
 
-### The Longterm-gains-strategy 
+### The Longterm-Gains-Strategy 
 
 * Has a Stoploss of 25%, which was hitted 11 times in the last 7 years. This strategy has an average of 9.3% per month and should be used to make profit out of compound interest.
 * How to use the strategy: Make an initial deposit and be patient a couple years. Compound interest is a magical thing!
 * $1000 turned into over 1 Milion Dollars in just 7 years.
 
-### The Shortterm-gains-strategy 
+### The Shortterm-Gains-Strategy 
 
 * Trades higher amounts, but has no Stoploss. The monthly returns are consequently higher, but the entire account can crash, which happend 5 times in the last 7 years. 
 * How to use the strategy: Make an initial deposit and withdrawal either at the end of each month or at the end of each quarter (every 3 months) for a slight use of compound interest.
