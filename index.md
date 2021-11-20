@@ -32,7 +32,6 @@ The strategy is based on a nearly 7-year backtest, starting on 1rd Jan. 2015 unt
 
 * Has a Stoploss of 25%, which was hitted 11 times in the last 7 years. This strategy has an average of 9.3% per month and should be used to make profit out of compound interest.
 * How to use the strategy: Make an initial deposit and be patient a couple years. Compound interest is a magical thing!
-
 * $1000 turned into over 1 Milion Dollars in just 7 years.
 
 ### The Shortterm-gains-strategy 
@@ -41,6 +40,10 @@ The strategy is based on a nearly 7-year backtest, starting on 1rd Jan. 2015 unt
 * How to use the strategy: Make an initial deposit and withdrawal either at the end of each month or at the end of each quarter (every 3 months) for a slight use of compound interest.
 * Even tough the entire account can crash, there is a highly positive return (+2850% in 7 years). You just have to refund your account with you initial deposit, after a crash. The withdrawals secure your money.
 
+
+
+## Backtesting results
+
 The tables show the money made during backtesting for every year back to 2015 and the average monthly results. Please be aware that some years are super strong (2015, 2016 and 2020), other years like 2019 are not that strong. Sometimes I don’t trade for an entire month, because no good situation occurred. This patience will be rewarded later.
 
 The graphics in the following are the backtesting results of the two strategies. 
@@ -48,8 +51,6 @@ For Shortterm-Gains using the monthly and the quarterly cashout.
 For Longterm-Gains no withdrawal is made.
 Please note, that the cTrader Backtesting prints the number of trades on the x-axis, not the days and months. 
 
-
-## Backtesting results
 
 ### Longterm-gains-strategy:
 <div><img src="images/neu4.png" alt="image" style="width:80%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 25px; padding: 0px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"></div>
