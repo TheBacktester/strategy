@@ -17,8 +17,8 @@ I recommend to put 50% of your money in Shorterm gains and 50% in Longterm gains
  
 I keep you up to date on my telegram channel: [https://t.me/longterm_backtested_strategies](https://t.me/longterm_backtested_strategies)
 
-<div><img src="images/1.png" alt="Results per year" style="width:80%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 25px; padding: 0px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"></div>
-<div><img src="images/2.png" alt="Average results per month" style="width:80%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 25px; padding: 0px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"></div>
+<div><img src="images/neu1.png" alt="Results per year" style="width:80%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 25px; padding: 0px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"></div>
+<div><img src="images/neu2.png" alt="Average results per month" style="width:80%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 25px; padding: 0px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"></div>
 
 ## Description of the strategy:
 
@@ -37,10 +37,6 @@ The Shortterm-gains-strategy
 
 The tables show the money made during backtesting for every year back to 2015 and the average monthly results. Please be aware that some years are super strong (2015, 2016 and 2020), other years like 2019 are not that strong. Sometimes I don’t trade for an entire month, because no good situation occurred. This patience will be rewarded later.
 
-
-<div><img src="images/3.png" alt="Different strategies" style="width:80%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 25px; padding: 0px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"></div>
-
-
 The graphics in the following are the backtesting results of the two strategies. 
 For Shortterm-Gains using the monthly and the quarterly cashout. 
 For Longterm-Gains no withdrawal is made.
@@ -50,17 +46,17 @@ Please note, that the cTrader Backtesting prints the number of trades on the x-a
 ## Backtesting results
 
 ### Longterm-gains-strategy:
-<div><img src="images/3.png" alt="image" style="width:80%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 25px; padding: 0px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"></div>
-<div><img src="images/4.png" alt="image" style="width:80%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 25px; padding: 0px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"></div>
+<div><img src="images/neu3.png" alt="image" style="width:80%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 25px; padding: 0px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"></div>
+<div><img src="images/neu4.png" alt="image" style="width:80%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 25px; padding: 0px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"></div>
 Note: The Equity Drawdown of 53% back in 2015 happend, because of two crashes in the same month. It took only two month to regain the lost money!
 
 ### Shortterm-gains-strategy, withdrawal every month:
-<div><img src="images/5.png" alt="image" style="width:80%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 25px; padding: 0px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"></div>
-<div><img src="images/6.png" alt="image" style="width:80%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 25px; padding: 0px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"></div>
+<div><img src="images/neu5.png" alt="image" style="width:80%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 25px; padding: 0px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"></div>
+<div><img src="images/neu6.png" alt="image" style="width:80%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 25px; padding: 0px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"></div>
 
 ### Shortterm-gains-strategy, withdrawal every quater (every 3 months):
-<div><img src="images/7.png" alt="image" style="width:80%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 25px; padding: 0px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"></div>
-<div><img src="images/8.png" alt="image" style="width:80%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 25px; padding: 0px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"></div>
+<div><img src="images/neu7.png" alt="image" style="width:80%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 25px; padding: 0px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"></div>
+<div><img src="images/neu8.png" alt="image" style="width:80%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 25px; padding: 0px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"></div>
 
 in case of questions, feel free to contact me at [thebacktester.contact@gmail.com](mailto:thebacktester.contact@gmail.com) .
 
