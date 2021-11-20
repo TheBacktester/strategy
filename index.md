@@ -2,6 +2,9 @@
 I already started the strategy in March 2021, but stopped in May 2021 to rework the strategy.
 The strategy is now reworked and live again!
 
+<div><img src="images/neu9.PNG" alt="image" style="width:80%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 25px; padding: 0px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"></div>
+
+
 ## Overview:
 Hello Traders,
 
