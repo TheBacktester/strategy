@@ -1,10 +1,10 @@
 Hello Traders,
 
-####Update of 20th Nov. 2021:
+## Update of 20th Nov. 2021:
 I already started the strategy in March 2021, but stop in May 2021 to rework the strategy.
 The strategy is now reworked and live again!
 
-##Overview
+## Overview:
 before you start copying my strategy, there are a few things you need to know about it. So please read the following:
  1. Be patient and copy for multiple months. Some months or even years will not work out strong, so be patient (see tables below, year 2019). If there is no good opportunity to trade, I just don´t trade. 
  2. Start copying while there is no open position. Don`t cash out money while there is an open position.
