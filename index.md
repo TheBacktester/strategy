@@ -1,5 +1,5 @@
 ## Update of 20th Nov. 2021:
-I already started the strategy in March 2021, but stopped in May 2021 to rework the strategy.
+I already started the strategy in March 2021, but paused in June 2021 to rework the strategy.
 The strategy is now reworked and live again!
 
 
@@ -12,10 +12,10 @@ before you start copying my strategy, there are a few things you need to know ab
  2. Start copying while there is no open position. Don`t cash out money while there is an open position.
  3. The amount of the position is calculated as a percentage of the balance.
  4. I have two different strategies: 
-	* Longterm gains: 7-years back-tested Longterm gains([Link](https://ct-eu.icmarkets.com/copy/strategy/27057))
-	* Shortterm gains: 7-years back-tested Shortterm gains ([Link](https://ct-eu.icmarkets.com/copy/strategy/25130))
+	* Longterm-Gains: 7-years back-tested Longterm-Gains([Link](https://ct-eu.icmarkets.com/copy/strategy/27057))
+	* Shortterm-Gains: 7-years back-tested Shortterm-Gains ([Link](https://ct-eu.icmarkets.com/copy/strategy/25130))
  
-I recommend to put 50% of your money in Shorterm gains and 50% in Longterm gains. After a couple years switch to 30% Shorterm gains and 70% Longterm gains.
+I recommend to put 50% of your money in Shorterm-Gains and 50% in Longterm-Gains. After a couple years switch to 30% Shorterm-Gains and 70% Longterm-Gains.
  
 I keep you up to date on my telegram channel: [https://t.me/longterm_backtested_strategies](https://t.me/longterm_backtested_strategies)
 
@@ -40,7 +40,7 @@ The strategy is based on a nearly 7-year backtest, starting on 1rd Jan. 2015 unt
 
 * Trades higher amounts, but has no Stoploss. The monthly returns are consequently higher, but the entire account can crash, which happend 5 times in the last 7 years. 
 * How to use the strategy: Make an initial deposit and withdrawal either at the end of each month or at the end of each quarter (every 3 months) for a slight use of compound interest.
-* Even tough the entire account can crash, there is a highly positive return (+2850% in 7 years). You just have to refund your account with you initial deposit, after a crash. The withdrawals secure your money.
+* Even though the entire account can crash, there is a highly positive return (+2850% in 7 years). You just have to refund your account with you initial deposit, after a crash. The withdrawals secure your money.
 
 
 
@@ -54,16 +54,16 @@ For Longterm-Gains no withdrawal is made.
 Please note, that the cTrader Backtesting prints the number of trades on the x-axis, not the days and months. 
 
 
-### Longterm-gains-strategy:
+### Longterm-Gains-Strategy:
 <div><img src="images/neu4.png" alt="image" style="width:80%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 25px; padding: 0px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"></div>
 <div><img src="images/neu3.png" alt="image" style="width:80%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 25px; padding: 0px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"></div>
 Note: The Equity Drawdown of 53% back in 2015 happend, because of two crashes in the same month. It took only two month to regain the lost money!
 
-### Shortterm-gains-strategy, withdrawal every month:
+### Shortterm-Gains-Strategy, withdrawal every month:
 <div><img src="images/neu5.png" alt="image" style="width:80%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 25px; padding: 0px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"></div>
 <div><img src="images/neu6.png" alt="image" style="width:80%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 25px; padding: 0px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"></div>
 
-### Shortterm-gains-strategy, withdrawal every quater (every 3 months):
+### Shortterm-Gains-Strategy, withdrawal every quater (every 3 months):
 <div><img src="images/neu7.png" alt="image" style="width:80%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 25px; padding: 0px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"></div>
 <div><img src="images/neu8.png" alt="image" style="width:80%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 25px; padding: 0px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"></div>
 
