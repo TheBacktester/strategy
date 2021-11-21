@@ -12,8 +12,8 @@ before you start copying my strategy, there are a few things you need to know ab
  2. Start copying while there is no open position. Don`t cash out money while there is an open position.
  3. The amount of the position is calculated as a percentage of the balance.
  4. I have two different strategies: 
-	* Longterm-Gains: 7-years back-tested Longterm-Gains([Link](https://ct-eu.icmarkets.com/copy/strategy/27042))
-	* Shortterm-Gains: 7-years back-tested Shortterm-Gains ([Link](https://ct-eu.icmarkets.com/copy/strategy/25130))
+	* Longterm-Gains: 7-years back-tested Longterm-Gains([Link](https://ct-sc.icmarkets.com/copy/strategy/39183))
+	* Shortterm-Gains: 7-years back-tested Shortterm-Gains ([Link](https://ct-sc.icmarkets.com/copy/strategy/39182)
  
 I recommend to put 50% of your investment in Shorterm-Gains and 50% in Longterm-Gains. After a couple years switch to 30% Shorterm-Gains and 70% Longterm-Gains.
  
