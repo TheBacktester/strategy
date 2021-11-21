@@ -15,7 +15,7 @@ before you start copying my strategy, there are a few things you need to know ab
 	* Longterm-Gains: 7-years back-tested Longterm-Gains([Link](https://ct-eu.icmarkets.com/copy/strategy/27057))
 	* Shortterm-Gains: 7-years back-tested Shortterm-Gains ([Link](https://ct-eu.icmarkets.com/copy/strategy/25130))
  
-I recommend to put 50% of your money in Shorterm-Gains and 50% in Longterm-Gains. After a couple years switch to 30% Shorterm-Gains and 70% Longterm-Gains.
+I recommend to put 50% of your investment in Shorterm-Gains and 50% in Longterm-Gains. After a couple years switch to 30% Shorterm-Gains and 70% Longterm-Gains.
  
 I keep you up to date on my telegram channel: [https://t.me/longterm_backtested_strategies](https://t.me/longterm_backtested_strategies)
 
