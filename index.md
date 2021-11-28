@@ -1,6 +1,6 @@
 ## Update of 20th Nov. 2021:
 I already started the strategy in March 2021, but paused in June 2021 to rework the strategy.
-The strategy is now reworked and will be live again latest on 29th Nov, after the live test!
+The strategy is now reworked and is live at the 29th Nov. 2021
 
 
 
