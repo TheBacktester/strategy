@@ -1,3 +1,7 @@
+## Update of 23th Feb. 2022:
+Both strategies dropped in beginning of February, I restarted the Shortterm-Gains-Strategy today. The Longterm-Gains-Strategy is still running since 20th Nov. 2021.
+
+
 ## Update of 20th Nov. 2021:
 I already started the strategy in March 2021, but paused in June 2021 to rework the strategy.
 The strategy is now reworked and is live at the 29th Nov. 2021
@@ -13,7 +17,7 @@ before you start copying my strategy, there are a few things you need to know ab
  3. The amount of the position is calculated as a percentage of the balance.
  4. I have two different strategies: 
 	* Longterm-Gains: 7-years back-tested Longterm-Gains ([Link](https://ct-sc.icmarkets.com/copy/strategy/39183))
-	* Shortterm-Gains: 7-years back-tested Shortterm-Gains ([Link](https://ct-sc.icmarkets.com/copy/strategy/39182))
+	* Shortterm-Gains: 7-years back-tested Shortterm-Gains ([Link](https://ct-sc.icmarkets.com/copy/strategy/42492))
  
 I recommend to put 50% of your investment in Shorterm-Gains and 50% in Longterm-Gains. After a couple years switch to 30% Shorterm-Gains and 70% Longterm-Gains.
  
