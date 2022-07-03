@@ -5,7 +5,7 @@ I did two updates to prevent the crashes from happening again:
 * If the volatility exceeds twice the value from the previous period, no trades will be opened
 * If a trendcomeback leads to a close of positions and then the trend continues, the close-level for new opened positions is calculated on the resuming trend-length. That leads to an earlier close.
 
-Both changes led to crashes earlier, but have not be used before because they also led to high wins in the past. The monthly wins in the past are now reduced but also the amount of crashes is reduced. For example Shortterm-Gains had 5 crashes during backtest and 3 during live run. The code update led to 2 crashes in backtest and no crashes in the "live" period. The monthly win for the whole period was reduced from 33% to 20%.
+Both changes led to crashes earlier, but have not been used before, because they also led to high wins in the past. The monthly wins in the past are now reduced, but also the amount of crashes is reduced. For example Shortterm-Gains had 5 crashes during backtest and 3 during live run. The code update led to 2 crashes in backtest and no crashes in the "live" period. The monthly win for the whole period was reduced from 33% to 20%.
 
 ## Update of 20th Nov. 2021:
 I already started the strategy in March 2021, but paused in June 2021 to rework the strategy.
