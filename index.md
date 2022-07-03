@@ -1,6 +1,6 @@
 ## Update of 03th Jul. 2022:
 Shortterm-Gains and Longterm-Gains crashed 3 times during the live run in 2022. I paused the strategies to rework the code.
-The strategies are live again the 05th of july.
+The strategies are live again the 05th of July.
 I did two updates to prevent the crashes from happening again.
 	* 1. If the volatility exceeds twice the value from the previous period, no trades will be opened
 	* 2. If a trendcomeback leads to a close of positions and then the trend continues, the close-level for new opened positions is calculated on the resuming trend-length. That leads to an earlier close.
@@ -8,7 +8,7 @@ Both changes led to crashes earlier, but have not be used before because they al
 
 ## Update of 20th Nov. 2021:
 I already started the strategy in March 2021, but paused in June 2021 to rework the strategy.
-The strategy is now reworked and is live at the 29th Nov. 2021
+The strategy was reworked and was continued the 29th Nov. 2021
 
 
 
