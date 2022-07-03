@@ -2,14 +2,14 @@
 Shortterm-Gains and Longterm-Gains crashed 3 times during the live run in 2022. I paused the strategies to rework the code.
 The strategies are live again the 05th of July.
 I did two updates to prevent the crashes from happening again:	
-* 1. If the volatility exceeds twice the value from the previous period, no trades will be opened
-* 2. If a trendcomeback leads to a close of positions and then the trend continues, the close-level for new opened positions is calculated on the resuming trend-length. That leads to an earlier close.
+* If the volatility exceeds twice the value from the previous period, no trades will be opened
+* If a trendcomeback leads to a close of positions and then the trend continues, the close-level for new opened positions is calculated on the resuming trend-length. That leads to an earlier close.
+
 Both changes led to crashes earlier, but have not be used before because they also led to high wins in the past. The monthly wins in the past are now reduced but also the amount of crashes is reduced. For example Shortterm-Gains had 5 crashes during backtest and 3 during live run. The code update led to 2 crashes in backtest and no crashes in the "live" period. The monthly win for the whole period was reduced from 33% to 20%.
 
 ## Update of 20th Nov. 2021:
 I already started the strategy in March 2021, but paused in June 2021 to rework the strategy.
 The strategy was reworked and was continued the 29th Nov. 2021
-
 
 
 ## Overview:
@@ -48,15 +48,16 @@ The strategy is based on a more than 7-year backtest, starting on 1rd Jan. 2015 
 
 ### The Midterm-Gains-Strategy 
 
-* Has a Stoploss of 50%, which was hitted 3 times during the backtest. This strategy trades half of the amount of Shortterm-Gains and has half the stoploss
-* How to use the strategy: Make an initial deposit and withdrawal either at the end of each month or at the end of each quarter (every 3 months) for a slight use of compound interest. If you do not cashout you could have high compound interest but also risk to loose all if the crash happens two times in a row (which did not happen during backtesting but it might happen) 
+* Has a Stoploss of 50%, which was hitted 3 times during the backtest. This strategy trades half of the amount of Shortterm-Gains and has half the stoploss.
+* How to use the strategy: Make an initial deposit and withdrawal either at the end of each month or at the end of each quarter (every 3 months) for a slight use of compound interest. 
+If you do not cashout you could have high compound interest but also risk to loose all, if the crash happens two times in a row (which did not happen during backtesting but it might happen) 
 
 
 ### The Shortterm-Gains-Strategy 
 
 * Trades higher amounts, but has no Stoploss. The monthly returns are consequently higher, but the entire account can crash, which happend 2 times in the last 7 years. 
 * How to use the strategy: Make an initial deposit and withdrawal either at the end of each month or at the end of each quarter (every 3 months) for a slight use of compound interest.
-* Even though the entire account can crash, there is a highly positive return (+1860% in 7 years). You just have to refund your account with you initial deposit, after a crash. The withdrawals secure your money.
+* Even though the entire account can crash, there is a highly positive return (+1860% in 7 years). You just have to refund your account with your initial deposit, after a crash. The withdrawals secure your money.
 
 
 
@@ -73,17 +74,17 @@ Please note, that the cTrader Backtesting prints the number of trades on the x-a
 ### Longterm-Gains-Strategy:
 <div><img src="images/neu4b.png" alt="image" style="width:80%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 25px; padding: 0px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"></div>
 <div><img src="images/neu3b.png" alt="image" style="width:80%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 25px; padding: 0px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"></div>
-Note: The Equity Drawdown of 53% back in 2015 happend, because of two crashes in the same month. It took only two month to regain the lost money
+Note: The Equity Drawdown of 63% back in 2015 happened, because of two crashes in the same month. It took only two month to regain the lost money.
 
 ### Midterm-Gains-Strategy:
-<div><img src="images/neu5b.png" alt="image" style="width:80%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 25px; padding: 0px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"></div>
 <div><img src="images/neu6b.png" alt="image" style="width:80%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 25px; padding: 0px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"></div>
-Note: The crashes are red circled, I start each month with the same initial amount, thats why a crash looks smaller in a long run backtest
+<div><img src="images/neu5b.png" alt="image" style="width:80%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 25px; padding: 0px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"></div>
+Note: The crashes are red circled, I start each month with the same initial amount, thats why a crash looks smaller in a long run backtest.
 
 ### Shortterm-Gains-Strategy:
-<div><img src="images/neu7b.png" alt="image" style="width:80%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 25px; padding: 0px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"></div>
 <div><img src="images/neu8b.png" alt="image" style="width:80%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 25px; padding: 0px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"></div>
-Note: The crashes are red circled, I start each month with the same initial amount, thats why a crash looks smaller in a long run backtest and does not look like a total crash of the account, but in fact it is one. Thats also why the max equity drawdown is at 75% and not 100%
+<div><img src="images/neu7b.png" alt="image" style="width:80%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 25px; padding: 0px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"></div>
+Note: The crashes are red circled, I start each month with the same initial amount, thats why a crash looks smaller in a long run backtest and does not look like a total crash of the account, but in fact it is one. Thats also why the max equity drawdown is at 75% and not 100%.
 
 
 In case of questions, feel free to contact me at [thebacktester.contact@gmail.com](mailto:thebacktester.contact@gmail.com) .
