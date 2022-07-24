@@ -1,16 +1,14 @@
-## Update of 03th Jul. 2022:
+## Update of 24th Jul. 2022:
 Shortterm-Gains and Longterm-Gains crashed 3 times during the live run in 2022. I paused the strategies to rework the code.
-The strategies are live again the 05th of July.
-I did two updates to prevent the crashes from happening again:	
+The strategies are live again the end of July.
+I did three updates to prevent the crashes from happening again:	
 * If the volatility exceeds twice the value from the previous period, no trades will be opened
 * If a trendcomeback leads to a close of positions and then the trend continues, the close-level for new opened positions is calculated on the resuming trend-length. That leads to an earlier close.
+* Crashes happen, especially during intense political times, therefore I reworked the strategies so that crashes are part of the normal buisness and do not kill the whole strategy
 
-Both changes led to crashes earlier, but have not been used before, because they also led to high wins in the past. The monthly wins in the past are now reduced, but also the amount of crashes is reduced. For example Shortterm-Gains had 5 crashes during backtest and 3 during live run. The code update led to 2 crashes in backtest and no crashes in the "live" period. The monthly win for the whole period was reduced from 33% to 20%.
+Both changes led to hitting stoploss earlier, but have not been used before, because they also led to high wins in the past. The monthly wins in the past are now reduced, but also the amount of crashes is reduced. 
 
-## Update of 20th Nov. 2021:
-I already started the strategy in March 2021, but paused in June 2021 to rework the strategy.
-The strategy was reworked and was continued the 29th Nov. 2021
-
+Please be aware that hitting the stoploss will happen regularly. The strategy is not over optimized, so that I expect similar market results in the future. BUT the strategy is still base on a backtest and the future might look different.
 
 ## Overview:
 Hello Traders,
@@ -24,10 +22,8 @@ before you start copying my strategy, there are a few things you need to know ab
 	* Midterm-Gains: 7-years back-tested Longterm-Gains ([Link](https://ct-sc.icmarkets.com/copy/strategy/39183))
 	* Shortterm-Gains: 7-years back-tested Shortterm-Gains ([Link](https://ct-sc.icmarkets.com/copy/strategy/42492))
  
-I recommend to put 50% of your investment in Shorterm-Gains or Midterm-Gains and 50% in Longterm-Gains. After a couple years switch to 30% Shorterm-Gains/Midterm-Gains and 70% Longterm-Gains.
- 
 I keep you up to date on my telegram channel: [https://t.me/longterm_backtested_strategies](https://t.me/longterm_backtested_strategies)
-The Longterm can be found on MyFxBook:([Link](https://www.myfxbook.com/members/TheBacktester/7-years-back-tested-longterm/9437514)) 
+The Midterm can be found on MyFxBook:([Link](https://www.myfxbook.com/members/TheBacktester/7-years-back-tested-longterm/9437514)) 
 
 <div><img src="images/neu1b.PNG" alt="image" style="width:80%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 25px; padding: 0px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"></div>
 <div><img src="images/neu2b.PNG" alt="image" style="width:80%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 25px; padding: 0px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"></div>
@@ -37,27 +33,27 @@ The Longterm can be found on MyFxBook:([Link](https://www.myfxbook.com/members/T
 
 I have spent many years with forex trading and the stock market. This strategy is based on the Elliot-Wave-Theory and Fibonacci Retracement levels. It is a proven statistical approach.  Order filling and closing is done by a cBot. The advantage of automation is that the emotions of the trader are excluded. I observe the whole process by checking news regularly. It is a cBot with strict entry and exit rules, so that the strategy could be backtested, using the „Automate-Backtesting“ section of ICMarkets cTrader. For better synchronization and execution, you should also use ICMarkets.
 
-The strategy is based on a more than 7-year backtest, starting on 1rd Jan. 2015 until 29th Jun. 2022.
+The strategy is based on a more than 7-year backtest, starting on 1rd Jan. 2015 until 22th July 2022.
 
 
 ### The Longterm-Gains-Strategy 
 
-* Has a Stoploss of 25%, which was hitted 8 times in the last 7 years. This strategy has an average of 9.1% per month and should be used to make profit out of compound interest.
+* Has a Stoploss of 15%, which was hitted 8 times in the last 8 years. In 2016 it was hitted twice shortly after each other. This strategy has an average of 4.6% per month and should be used to make profit out of compound interest.
 * How to use the strategy: Make an initial deposit and be patient a couple years.
-* **$1000 turned into over 2 Milion Dollars in just 8 years.**
 
 ### The Midterm-Gains-Strategy 
 
-* Has a Stoploss of 50%, which was hitted 3 times during the backtest. This strategy trades half of the amount of Shortterm-Gains and has half the stoploss.
-* How to use the strategy: Make an initial deposit and withdrawal either at the end of each month or at the end of each quarter (every 3 months) for a slight use of compound interest. 
-If you do not cashout you could have high compound interest but also risk to loose all, if the crash happens two times in a row (which did not happen during backtesting but it might happen) 
+* Has a Stoploss of 25%, which was hitted 8 times in the last 8 years. In 2016 it was hitted twice shortly after each other. This strategy has an average of 9.6% per month and should be used to make profit out of compound interest.
+* How to use the strategy: Make an initial deposit and be patient a couple years.
+* **$1000 turned into over 4 Milion Dollars in just 8 years during the backtest.**
 
 
 ### The Shortterm-Gains-Strategy 
 
-* Trades higher amounts, but has no Stoploss. The monthly returns are consequently higher, but the entire account can crash, which happend 2 times in the last 7 years. 
-* How to use the strategy: Make an initial deposit and withdrawal either at the end of each month or at the end of each quarter (every 3 months) for a slight use of compound interest.
-* Even though the entire account can crash, there is a highly positive return (+1860% in 7 years). You just have to refund your account with your initial deposit, after a crash. The withdrawals secure your money.
+* Has a Stoploss of 25%, which was hitted 19 times in the last 8 years. It was hitted multiple times shortly after each other and is therefore risky that it crashes after the 4th time. This strategy has an average of 10.8% per month and should be used to make profit out of cashout regularly.
+* How to use the strategy: Make an initial deposit and withdraw profits from regularly. Be patient, this strategy might have longer negative phases.
+* Please note that it took 14 months to regain the money lost during spring 2020 turbulences. Currently the strategy is about 50% away of the high water mark of early 2022.
+* **$1000 turned into over 11 Milion Dollars in just 8 years during the backtest. But it is very risky and you should no keep high amounts in it unless you like the risk**
 
 
 
@@ -66,26 +62,23 @@ If you do not cashout you could have high compound interest but also risk to loo
 The tables show the money made during backtesting for every year back to 2015 and the average monthly results. Please be aware that some years are super strong (2015, 2016 and 2020), other years like 2019 are not that strong. Sometimes I don’t trade for an entire month, because no good situation occurred. This patience will be rewarded later.
 
 The graphics in the following are the backtesting results of the three strategies. 
-For Shortterm-Gains and Midterm-Gains using cashout. 
-For Longterm-Gains no withdrawal is made.
 Please note, that the cTrader Backtesting prints the number of trades on the x-axis, not the days and months. 
 
 
 ### Longterm-Gains-Strategy:
-<div><img src="images/neu4b.png" alt="image" style="width:80%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 25px; padding: 0px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"></div>
-<div><img src="images/neu3b.png" alt="image" style="width:80%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 25px; padding: 0px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"></div>
-Note: The Equity Drawdown of 63% back in 2015 happened, because of two crashes in the same month. It took only two month to regain the lost money.
-
-### Midterm-Gains-Strategy:
 <div><img src="images/neu6b.png" alt="image" style="width:80%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 25px; padding: 0px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"></div>
 <div><img src="images/neu5b.png" alt="image" style="width:80%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 25px; padding: 0px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"></div>
-Note: The crashes are red circled, I start each month with the same initial amount, thats why a crash looks smaller in a long run backtest.
+Note: The Equity Drawdown of 33% back in 2015 happened, because of two crashes in the same month. It took only two month to regain the lost money. Future regains may take longer.
+
+### Midterm-Gains-Strategy:
+<div><img src="images/neu4b.png" alt="image" style="width:80%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 25px; padding: 0px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"></div>
+<div><img src="images/neu3b.png" alt="image" style="width:80%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 25px; padding: 0px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"></div>
+Note: The Equity Drawdown of 52% back in 2015 happened, because of two crashes in the same month. It took only two month to regain the lost money. Future regains may take longer.
 
 ### Shortterm-Gains-Strategy:
-<div><img src="images/neu8b.png" alt="image" style="width:80%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 25px; padding: 0px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"></div>
 <div><img src="images/neu7b.png" alt="image" style="width:80%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 25px; padding: 0px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"></div>
-Note: The crashes are red circled, I start each month with the same initial amount, thats why a crash looks smaller in a long run backtest and does not look like a total crash of the account, but in fact it is one. Thats also why the max equity drawdown is at 75% and not 100%.
-
+<div><img src="images/neu8b.png" alt="image" style="width:80%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 25px; padding: 0px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"></div>
+Note: Multiple crash areas are red circled, it might happen in the future that multiple crashes in a row lead to a washout of the strategy. Therefore cash out money in between.
 
 In case of questions, feel free to contact me at [thebacktester.contact@gmail.com](mailto:thebacktester.contact@gmail.com) .
 
