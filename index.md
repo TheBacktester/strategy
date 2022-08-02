@@ -6,9 +6,11 @@ I did three updates to prevent the crashes from happening again:
 * If a trendcomeback leads to a close of positions and then the trend continues, the close-level for new opened positions is calculated on the resuming trend-length. That leads to an earlier close.
 * Crashes happen, especially during intense political times, therefore I reworked the strategies so that crashes are part of the normal buisness and do not kill the whole strategy
 
-Both changes led to hitting stoploss earlier, but have not been used before, because they also led to high wins in the past. The monthly wins in the past are now reduced, but also the amount of crashes is reduced. 
+Both first mentioned changes led to hitting stoploss earlier, but have not been used before, because they also led to high wins in the past. The monthly wins in the past are now reduced.
 
-Please be aware that hitting the stoploss will happen regularly. The strategy is not over optimized, so that I expect similar market results in the future. BUT the strategy is still base on a backtest and the future might look different.
+Please be aware that hitting the stoploss will happen regularly. If you can't take a stoploss don't even start copying.
+The strategy is not over optimized, so that I expect similar market results in the future. BUT the strategy is still base on a backtest and the future might look different.
+
 
 ## Overview:
 Hello Traders,
@@ -18,9 +20,9 @@ before you start copying my strategy, there are a few things you need to know ab
  2. Start copying while there is no open position. Don`t cash out money while there is an open position.
  3. The amount of the position is calculated as a percentage of the balance.
  4. I have three different strategies: 
-	* Longterm-Gains: 7-years back-tested Longterm-Gains ([Link](https://ct-sc.icmarkets.com/copy/strategy/39183))
-	* Midterm-Gains: 7-years back-tested Longterm-Gains ([Link](https://ct-sc.icmarkets.com/copy/strategy/39183))
-	* Shortterm-Gains: 7-years back-tested Shortterm-Gains ([Link](https://ct-sc.icmarkets.com/copy/strategy/42492))
+	* Longterm-Gains: 7-years back-tested Longterm-Gains ([Link](https://ct-sc.icmarkets.com/copy/strategy/50970))
+	* Midterm-Gains: 7-years back-tested Longterm-Gains ([Link](https://ct-sc.icmarkets.com/copy/strategy/50969))
+	* Shortterm-Gains: 7-years back-tested Shortterm-Gains ([Link](https://ct-sc.icmarkets.com/copy/strategy/50971))
  
 I keep you up to date on my telegram channel: [https://t.me/longterm_backtested_strategies](https://t.me/longterm_backtested_strategies)
 The Midterm can be found on MyFxBook:([Link](https://www.myfxbook.com/members/TheBacktester/7-years-back-tested-longterm/9437514)) 
