@@ -22,7 +22,7 @@ before you start copying my strategy, there are a few things you need to know ab
  4. I have three different strategies: 
 	* Longterm-Gains: 7-years back-tested Longterm-Gains ([Link](https://ct-sc.icmarkets.com/copy/strategy/50970))
 	* Midterm-Gains: 7-years back-tested Midterm-Gains ([Link](https://ct-sc.icmarkets.com/copy/strategy/50969))
-	* Shortterm-Gains: 7-years back-tested Shortterm-Gains ([Link](https://ct-sc.icmarkets.com/copy/strategy/50971))
+	* Shortterm-Gains: 7-years back-tested Shortterm-Gains ([Link](https://ct-sc.icmarkets.com/copy/strategy/59921))
  
 I keep you up to date on my telegram channel: [https://t.me/longterm_backtested_strategies](https://t.me/longterm_backtested_strategies)
 
